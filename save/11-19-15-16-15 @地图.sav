@@ -1,0 +1,17 @@
+地图
+12,27
+14
+_Face=♀
+_Name=英雄
+_Att=21
+_def=6
+_hp=75
+_hpMax=75
+_Lev=4
+_Exp=46
+v2=0
+V1=1
+mainMenu_id=1
+mainMenu_name=保存进度
+fight_id=0
+fight_name=攻击

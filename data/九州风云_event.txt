@@ -1,0 +1,6 @@
+#D    ×Ô¶¯´¥·¢
+-1,-1
+@lockMenu
+coverMenu
+6,11
+#END

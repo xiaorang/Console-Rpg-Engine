@@ -1,0 +1,15 @@
+野外地图
+52,24
+12
+_Face=♀
+_Name=英雄
+_Att=15
+_def=3
+_hp=60
+_hpMax=60
+_Lev=1
+_Exp=0
+v2=0
+V1=1
+mainMenu_id=1
+mainMenu_name=保存进度
